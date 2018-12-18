@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile_1.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,30 +35,30 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: https://twitter.com/rishirajsidhu
+twitter: rishirajsidhu
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/rishisidhu
+github: rishisidhu
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: rishisidhu
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: info@sparxai.com
 
 authors:
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile_1.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
