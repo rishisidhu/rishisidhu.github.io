@@ -16,7 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+url: https://google.com
 blog_url: https://medium.com/@rishisidhu
+project_url: https://github.com/rishisidhu
+about_url: https://www.linkedin.com/in/rishi-sidhu-237239a/
 
 # your url: http://USERNAME.github.io
 
