@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile_1.jpg
 
 # If you want to include your resume, set to true
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://www.linkedin.com/in/rishi-sidhu-237239a/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -59,7 +59,7 @@ authors:
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile_1.jpg
-        twitter: johndoe
+        twitter: rishisidhu
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
